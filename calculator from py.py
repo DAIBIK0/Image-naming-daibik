@@ -4,7 +4,7 @@ win = Tk() # This is to create a basic window
 win.geometry("312x324")  # this is for the size of the window 
 win.resizable(0, 0)  # this is to prevent from resizing the window
 win.title("Calculator")
-photo = PhotoImage(file = "C:/Users/Sanjukta Banik/python/icon1.png")
+photo = PhotoImage(file = "https://github.com/DAIBIK0/Image-naming-daibik/blob/81ea2d52a11ce1e1ff9f8bec45fdd9f4a7a9ee31/icon1.png")
 win.iconphoto(False, photo)
 
 ###################Starting with functions ####################
